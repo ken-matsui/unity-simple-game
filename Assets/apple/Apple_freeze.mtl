@@ -1,0 +1,21 @@
+# MTL written from D:\_Temporary\Apple_freeze.obj
+newmtl Skin
+Kd 0.827451 0.160784 0.145098
+Ns 300
+d 1
+illum 2
+Ka 1.1 1.1 1.1
+Ks 0.5 0.5 0.5
+map_Kd D:\_Temporary\images\Apple_Skin_col.tga
+map_Ks D:\_Temporary\images\Apple_Skin_spe.tga
+map_Ka D:\_Temporary\images\Apple_Skin_spe.tga
+map_Bump D:\_Temporary\images\Apple_Skin_spe.tga
+newmtl Stem
+Kd 0.8 0.513726 0.443137
+Ns 200
+d 1
+illum 2
+Ka 1 1 1
+Ks 0.31 0.31 0.31
+map_Kd D:\_Temporary\images\Apple_Stem_col.tga
+map_Bump D:\_Temporary\images\Apple_Stem_col.tga
